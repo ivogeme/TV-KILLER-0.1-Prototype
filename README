@@ -1,0 +1,44 @@
+# TV KILLER
+
+TV KILLER é um pequeno jogo de terror retrô desenvolvido em Python
+com Pygame.
+
+## Versão
+
+0.1 Prototype
+
+## História
+
+Um homem trabalha em uma locadora de vídeos e ouve uma antiga
+lenda sobre o TV Killer.
+
+Dizem que ele sequestra pessoas que dormem com a televisão ligada.
+
+O protagonista ignora o aviso.
+
+## Controles
+
+No celular:
+- < = esquerda
+- > = direita
+- ^ = cima
+- v = baixo
+
+O TV Killer persegue o jogador.
+
+## Requisitos
+
+- Python 3
+- Pygame 2.x
+
+## Estado
+
+Protótipo inicial.
+
+Esta versão contém apenas a mecânica básica de perseguição.
+O cenário, história completa, sons e outras mecânicas serão
+adicionados nas próximas versões.
+
+## Licença
+
+Apache-2.0
